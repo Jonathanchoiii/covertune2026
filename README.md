@@ -10,6 +10,8 @@
 - PNG 海报导出和真实音乐资料来源链接。
 - MusicBrainz、Cover Art Archive 与 Internet Archive 数据适配。
 
+在线预览：[jonathanchoiii.github.io/covertune2026](https://jonathanchoiii.github.io/covertune2026/)
+
 ## 本地运行
 
 ```bash
@@ -38,4 +40,3 @@ npm run test:sites
 音乐元数据来自开放目录，但专辑封面不因此自动成为开源或可自由商用素材。
 仓库中的低分辨率封面仅用于本地、非商业原型展示；正式发布前仍需逐张完成
 质量、内容和图片权利审核。
-

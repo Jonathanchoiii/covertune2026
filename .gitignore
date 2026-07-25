@@ -1,6 +1,7 @@
 .DS_Store
 **/node_modules/
 **/dist/
+**/dist-pages/
 **/test-results/
 **/playwright-report/
 *.log
@@ -8,4 +9,3 @@
 .env
 .env.*
 !.env.example
-

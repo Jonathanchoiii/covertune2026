@@ -1,0 +1,58 @@
+import { readFile, readdir, writeFile } from "node:fs/promises";
+import { fileURLToPath } from "node:url";
+import path from "node:path";
+
+const demoRoot = path.resolve(
+  path.dirname(fileURLToPath(import.meta.url)),
+  "..",
+);
+const outputDir = path.resolve(demoRoot, process.argv[2] || "dist-pages");
+const basePath = `/${(process.argv[3] || "covertune2026")
+  .replace(/^\/+|\/+$/g, "")}`;
+const textExtensions = new Set([".css", ".html", ".js", ".json", ".svg"]);
+const publicPaths = [
+  "assets/",
+  "covers/",
+  "fog-gallery.png",
+  "qa/",
+  "visual-candidates.raw.json",
+];
+
+function rewritePublicPaths(source) {
+  let rewritten = source;
+
+  for (const publicPath of publicPaths) {
+    rewritten = rewritten
+      .replaceAll(`"/${publicPath}`, `"${basePath}/${publicPath}`)
+      .replaceAll(`'/${publicPath}`, `'${basePath}/${publicPath}`)
+      .replaceAll(`url(/${publicPath}`, `url(${basePath}/${publicPath}`);
+  }
+
+  return rewritten;
+}
+
+async function rewriteDirectory(directory) {
+  const entries = await readdir(directory, { withFileTypes: true });
+
+  await Promise.all(
+    entries.map(async (entry) => {
+      const entryPath = path.join(directory, entry.name);
+      if (entry.isDirectory()) {
+        await rewriteDirectory(entryPath);
+        return;
+      }
+      if (!textExtensions.has(path.extname(entry.name))) return;
+
+      const source = await readFile(entryPath, "utf8");
+      const rewritten = rewritePublicPaths(source);
+      if (rewritten !== source) await writeFile(entryPath, rewritten);
+    }),
+  );
+}
+
+await rewriteDirectory(outputDir);
+await writeFile(path.join(outputDir, ".nojekyll"), "");
+process.stdout.write(
+  `Prepared GitHub Pages build at ${outputDir} for ${basePath}/\n`,
+);
+
