@@ -48,3 +48,40 @@ test("defaults to MARTIN and keeps the name field above the keyboard", async ({
   await page.waitForTimeout(500);
   await assertDockAboveKeyboard();
 });
+
+test("saved poster keeps ten album covers on one row", async ({ page }) => {
+  await page.goto("/?name=ABCDEFGHIJ&seed=0");
+  await expect(
+    page.getByRole("heading", { name: "ABCDEFGHIJ，这是你的封面歌单" }),
+  ).toBeVisible();
+
+  await page.evaluate(() => {
+    const captureWindow = window as typeof window & {
+      __coverTunePosterSize?: { width: number; height: number };
+    };
+    const originalToBlob = HTMLCanvasElement.prototype.toBlob;
+
+    HTMLCanvasElement.prototype.toBlob = function (callback, type, quality) {
+      captureWindow.__coverTunePosterSize = {
+        width: this.width,
+        height: this.height,
+      };
+      return originalToBlob.call(this, callback, type, quality);
+    };
+  });
+
+  await page.getByRole("button", { name: "保存结果图片到本地" }).click();
+
+  await expect
+    .poll(() =>
+      page.evaluate(
+        () =>
+          (
+            window as typeof window & {
+              __coverTunePosterSize?: { width: number; height: number };
+            }
+          ).__coverTunePosterSize ?? null,
+      ),
+    )
+    .toEqual({ width: 2392, height: 748 });
+});

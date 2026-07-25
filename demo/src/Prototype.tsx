@@ -274,10 +274,13 @@ export default function Prototype() {
   const savePoster = async () => {
     try {
       const canvas = document.createElement("canvas");
-      const columns = Math.min(matches.length, 5);
-      const rows = Math.ceil(matches.length / columns);
-      canvas.width = 1400;
-      canvas.height = 500 + rows * 248;
+      const tile = 196;
+      const gap = 28;
+      const horizontalPadding = 90;
+      const totalWidth =
+        matches.length * tile + Math.max(0, matches.length - 1) * gap;
+      canvas.width = Math.max(1400, totalWidth + horizontalPadding * 2);
+      canvas.height = 748;
       const context = canvas.getContext("2d");
       if (!context) throw new Error("Canvas unavailable");
 
@@ -292,9 +295,6 @@ export default function Prototype() {
       context.fillStyle = "#6c6c68";
       context.fillText("每张封面，刚好像你名字里的一个字母", 90, 255);
 
-      const tile = 196;
-      const gap = 28;
-      const totalWidth = columns * tile + (columns - 1) * gap;
       const startX = (canvas.width - totalWidth) / 2;
 
       await Promise.all(
@@ -311,10 +311,8 @@ export default function Prototype() {
             image = await loadCanvasImage(fallback);
           }
 
-          const column = index % columns;
-          const row = Math.floor(index / columns);
-          const x = startX + column * (tile + gap);
-          const y = 330 + row * 248;
+          const x = startX + index * (tile + gap);
+          const y = 330;
           context.drawImage(image, x, y, tile, tile);
           context.fillStyle = "#151515";
           context.font = "700 25px Arial, sans-serif";
