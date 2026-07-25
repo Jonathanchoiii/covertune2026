@@ -54,7 +54,7 @@ jobs:
 
       - name: Rewrite public asset paths
         working-directory: demo
-        run: node scripts/prepare-github-pages.mjs dist-pages /covertune2026
+        run: node scripts/prepare-github-pages.mjs dist-pages /covertune2026 "$GITHUB_SHA"
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
@@ -71,4 +71,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
