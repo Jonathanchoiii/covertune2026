@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CoverTune visual curation</title>
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        padding: 28px;
+        color: #f4f1e8;
+        background: #11110f;
+        font: 13px/1.4 -apple-system, BlinkMacSystemFont, sans-serif;
+      }
+      header { display: flex; align-items: baseline; gap: 18px; }
+      h1 { margin: 0; font-size: 28px; }
+      header p { color: #a9a79e; }
+      section { margin-top: 28px; }
+      h2 { margin: 0 0 12px; color: #eff51d; font-size: 40px; }
+      .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; }
+      article {
+        min-width: 0;
+        overflow: hidden;
+        color: #171713;
+        background: #f6f4ec;
+        border-radius: 12px;
+      }
+      img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; }
+      div { padding: 9px 10px 11px; }
+      strong, small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      small { color: #706e67; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>CoverTune visual candidates</h1>
+      <p>Exact one-letter releases from MusicBrainz + Cover Art Archive</p>
+    </header>
+    <main></main>
+    <script type="module">
+      const catalog = await fetch("/visual-candidates.raw.json").then((response) => response.json());
+      const letters = new URLSearchParams(location.search).get("letters") || "ABCD";
+      const main = document.querySelector("main");
+      for (const letter of letters.toUpperCase()) {
+        const section = document.createElement("section");
+        const heading = document.createElement("h2");
+        heading.textContent = letter;
+        const grid = document.createElement("div");
+        grid.className = "grid";
+        for (const item of catalog[letter] || []) {
+          const card = document.createElement("article");
+          const image = document.createElement("img");
+          image.src = item.localCoverUrl;
+          image.alt = `${item.title} by ${item.artist}`;
+          const meta = document.createElement("div");
+          const title = document.createElement("strong");
+          title.textContent = item.title;
+          const artist = document.createElement("small");
+          artist.textContent = item.artist;
+          meta.append(title, artist);
+          card.append(image, meta);
+          grid.append(card);
+        }
+        section.append(heading, grid);
+        main.append(section);
+      }
+    </script>
+  </body>
+</html>

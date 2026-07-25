@@ -1,0 +1,1428 @@
+{
+  "A": [
+    {
+      "letter": "A",
+      "releaseId": "55907ef1-a4ad-342f-877a-d3b8acd5c973",
+      "releaseGroupId": "c3342761-c64e-326d-b62e-55169085aae7",
+      "title": "A",
+      "artist": "Pan Sonic",
+      "date": "1999",
+      "detailUrl": "https://musicbrainz.org/release/55907ef1-a4ad-342f-877a-d3b8acd5c973",
+      "coverSourceUrl": "https://coverartarchive.org/release/55907ef1-a4ad-342f-877a-d3b8acd5c973/front-500",
+      "localCoverUrl": "/covers/visual-candidates/a-1.jpg"
+    },
+    {
+      "letter": "A",
+      "releaseId": "4cad51d7-f26e-4a90-ba61-82906052ce07",
+      "releaseGroupId": "bbc613d2-99f1-39ca-96d5-b62e34a46511",
+      "title": "A",
+      "artist": "SUPERCAR",
+      "date": "2005-03-24",
+      "detailUrl": "https://musicbrainz.org/release/4cad51d7-f26e-4a90-ba61-82906052ce07",
+      "coverSourceUrl": "https://coverartarchive.org/release/4cad51d7-f26e-4a90-ba61-82906052ce07/front-500",
+      "localCoverUrl": "/covers/visual-candidates/a-2.jpg"
+    },
+    {
+      "letter": "A",
+      "releaseId": "07909b1e-18e0-4ba9-9295-7dd1fd360b52",
+      "releaseGroupId": "57cb2968-6c3b-4884-884b-29e232976881",
+      "title": "a",
+      "artist": "BIGBANG",
+      "date": "2015-06-01",
+      "detailUrl": "https://musicbrainz.org/release/07909b1e-18e0-4ba9-9295-7dd1fd360b52",
+      "coverSourceUrl": "https://coverartarchive.org/release/07909b1e-18e0-4ba9-9295-7dd1fd360b52/front-500",
+      "localCoverUrl": "/covers/visual-candidates/a-3.jpg"
+    },
+    {
+      "letter": "A",
+      "releaseId": "f0a5489d-8cec-43ed-abd5-3d0099c2aebf",
+      "releaseGroupId": "bbe880fa-78fd-47b8-acdd-f98c6c8723c2",
+      "title": "A",
+      "artist": "Mazzoll, Arhythmic Perfection",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/f0a5489d-8cec-43ed-abd5-3d0099c2aebf",
+      "coverSourceUrl": "https://coverartarchive.org/release/f0a5489d-8cec-43ed-abd5-3d0099c2aebf/front-500",
+      "localCoverUrl": "/covers/visual-candidates/a-4.jpg"
+    },
+    {
+      "letter": "A",
+      "releaseId": "7e9fd860-196c-47d6-8377-d6882d1aeb46",
+      "releaseGroupId": "5207cd80-05cc-4873-8848-cadd6e935129",
+      "title": "A",
+      "artist": "Ryan Preston",
+      "date": "2013-11-28",
+      "detailUrl": "https://musicbrainz.org/release/7e9fd860-196c-47d6-8377-d6882d1aeb46",
+      "coverSourceUrl": "https://coverartarchive.org/release/7e9fd860-196c-47d6-8377-d6882d1aeb46/front-500",
+      "localCoverUrl": "/covers/visual-candidates/a-5.jpg"
+    }
+  ],
+  "B": [
+    {
+      "letter": "B",
+      "releaseId": "5f64edff-b4a9-4206-b015-af4221134edb",
+      "releaseGroupId": "567ee3c5-2830-4262-b94c-f7bdc0b48bb0",
+      "title": "B",
+      "artist": "Noah T",
+      "date": "2017-09-20",
+      "detailUrl": "https://musicbrainz.org/release/5f64edff-b4a9-4206-b015-af4221134edb",
+      "coverSourceUrl": "https://coverartarchive.org/release/5f64edff-b4a9-4206-b015-af4221134edb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/b-1.jpg"
+    },
+    {
+      "letter": "B",
+      "releaseId": "3ae52247-1492-4e59-ae21-152151ea2bdb",
+      "releaseGroupId": "7cc4144f-af3e-4343-af11-d0439d23beef",
+      "title": "B",
+      "artist": "LifeMod",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/3ae52247-1492-4e59-ae21-152151ea2bdb",
+      "coverSourceUrl": "https://coverartarchive.org/release/3ae52247-1492-4e59-ae21-152151ea2bdb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/b-2.jpg"
+    },
+    {
+      "letter": "B",
+      "releaseId": "6bb4eaa8-5ec2-40c2-91cc-dcc47243cbba",
+      "releaseGroupId": "3d377ab3-521e-4784-b827-380ac69aa609",
+      "title": "B",
+      "artist": "System",
+      "date": "2010-10-04",
+      "detailUrl": "https://musicbrainz.org/release/6bb4eaa8-5ec2-40c2-91cc-dcc47243cbba",
+      "coverSourceUrl": "https://coverartarchive.org/release/6bb4eaa8-5ec2-40c2-91cc-dcc47243cbba/front-500",
+      "localCoverUrl": "/covers/visual-candidates/b-3.jpg"
+    },
+    {
+      "letter": "B",
+      "releaseId": "f3334064-560d-4439-86a1-08584e8d6766",
+      "releaseGroupId": "ea32ee60-8385-407b-b39d-f17a95727550",
+      "title": "B",
+      "artist": "Beat Assailant",
+      "date": "2012-04-30",
+      "detailUrl": "https://musicbrainz.org/release/f3334064-560d-4439-86a1-08584e8d6766",
+      "coverSourceUrl": "https://coverartarchive.org/release/f3334064-560d-4439-86a1-08584e8d6766/front-500",
+      "localCoverUrl": "/covers/visual-candidates/b-4.jpg"
+    },
+    {
+      "letter": "B",
+      "releaseId": "f992b4d5-7c47-435a-8bad-c90751fac255",
+      "releaseGroupId": "1ac70156-5b20-4ffa-9db0-ff021eb8a3da",
+      "title": "B",
+      "artist": "SikitikiS",
+      "date": "2008",
+      "detailUrl": "https://musicbrainz.org/release/f992b4d5-7c47-435a-8bad-c90751fac255",
+      "coverSourceUrl": "https://coverartarchive.org/release/f992b4d5-7c47-435a-8bad-c90751fac255/front-500",
+      "localCoverUrl": "/covers/visual-candidates/b-5.jpg"
+    }
+  ],
+  "C": [
+    {
+      "letter": "C",
+      "releaseId": "82c4655e-9068-4096-8985-4b24af637450",
+      "releaseGroupId": "c4e1df17-9b30-49d5-b820-845be787ed7a",
+      "title": "C",
+      "artist": "Turzi",
+      "date": "2015-03-16",
+      "detailUrl": "https://musicbrainz.org/release/82c4655e-9068-4096-8985-4b24af637450",
+      "coverSourceUrl": "https://coverartarchive.org/release/82c4655e-9068-4096-8985-4b24af637450/front-500",
+      "localCoverUrl": "/covers/visual-candidates/c-1.jpg"
+    },
+    {
+      "letter": "C",
+      "releaseId": "62a87e13-1d3f-4364-bcc0-97db17ddeb2e",
+      "releaseGroupId": "e9c473f9-f1ee-4b24-99c9-8859e94af2cc",
+      "title": "C",
+      "artist": "Tensal™",
+      "date": "2015-02-05",
+      "detailUrl": "https://musicbrainz.org/release/62a87e13-1d3f-4364-bcc0-97db17ddeb2e",
+      "coverSourceUrl": "https://coverartarchive.org/release/62a87e13-1d3f-4364-bcc0-97db17ddeb2e/front-500",
+      "localCoverUrl": "/covers/visual-candidates/c-2.jpg"
+    },
+    {
+      "letter": "C",
+      "releaseId": "3b819acc-b2d6-4fcd-a01f-1e917b99ab74",
+      "releaseGroupId": "2e657e6a-78c5-485a-aa14-183e80af2c64",
+      "title": "C",
+      "artist": "Patton",
+      "date": "2015-09-25",
+      "detailUrl": "https://musicbrainz.org/release/3b819acc-b2d6-4fcd-a01f-1e917b99ab74",
+      "coverSourceUrl": "https://coverartarchive.org/release/3b819acc-b2d6-4fcd-a01f-1e917b99ab74/front-500",
+      "localCoverUrl": "/covers/visual-candidates/c-3.jpg"
+    },
+    {
+      "letter": "C",
+      "releaseId": "7ffaab72-ccf5-43f4-b76f-a651867370eb",
+      "releaseGroupId": "844a8cec-857e-4572-8a5f-444bce4edb06",
+      "title": "C",
+      "artist": "Jimmy Castor",
+      "date": "1980",
+      "detailUrl": "https://musicbrainz.org/release/7ffaab72-ccf5-43f4-b76f-a651867370eb",
+      "coverSourceUrl": "https://coverartarchive.org/release/7ffaab72-ccf5-43f4-b76f-a651867370eb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/c-4.jpg"
+    },
+    {
+      "letter": "C",
+      "releaseId": "4be6ec80-fb98-4e16-a5fe-a1f1fa284c60",
+      "releaseGroupId": "1ec70ea1-fec6-455b-b31a-ccf3fa6d1537",
+      "title": "C",
+      "artist": "Anders Bergcrantz Quartet",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/4be6ec80-fb98-4e16-a5fe-a1f1fa284c60",
+      "coverSourceUrl": "https://coverartarchive.org/release/4be6ec80-fb98-4e16-a5fe-a1f1fa284c60/front-500",
+      "localCoverUrl": "/covers/visual-candidates/c-5.jpg"
+    }
+  ],
+  "D": [
+    {
+      "letter": "D",
+      "releaseId": "b3fed08f-93d6-44fc-a13c-a5569416aee0",
+      "releaseGroupId": "f15980b1-6d3a-44ea-9c46-31cd9b92cd6d",
+      "title": "D",
+      "artist": "BIGBANG",
+      "date": "2015-07-01",
+      "detailUrl": "https://musicbrainz.org/release/b3fed08f-93d6-44fc-a13c-a5569416aee0",
+      "coverSourceUrl": "https://coverartarchive.org/release/b3fed08f-93d6-44fc-a13c-a5569416aee0/front-500",
+      "localCoverUrl": "/covers/visual-candidates/d-1.jpg"
+    },
+    {
+      "letter": "D",
+      "releaseId": "758bb67c-9d7a-4c93-b5f4-c69220a68edb",
+      "releaseGroupId": "b2d9c3b7-c94a-457a-8478-29d36ecb66da",
+      "title": "D",
+      "artist": "Codeine",
+      "date": "1990",
+      "detailUrl": "https://musicbrainz.org/release/758bb67c-9d7a-4c93-b5f4-c69220a68edb",
+      "coverSourceUrl": "https://coverartarchive.org/release/758bb67c-9d7a-4c93-b5f4-c69220a68edb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/d-2.jpg"
+    },
+    {
+      "letter": "D",
+      "releaseId": "78f10a03-5788-4bba-81f3-17aa9725433f",
+      "releaseGroupId": "57c4a122-4576-3467-96ec-de3767c5c961",
+      "title": "D",
+      "artist": "Tarika",
+      "date": "1999",
+      "detailUrl": "https://musicbrainz.org/release/78f10a03-5788-4bba-81f3-17aa9725433f",
+      "coverSourceUrl": "https://coverartarchive.org/release/78f10a03-5788-4bba-81f3-17aa9725433f/front-500",
+      "localCoverUrl": "/covers/visual-candidates/d-3.jpg"
+    },
+    {
+      "letter": "D",
+      "releaseId": "dc16ccbf-ab90-4b3e-86a0-4e1b1b2404bb",
+      "releaseGroupId": "d691cc08-459b-49a5-beb2-3a73530ae23e",
+      "title": "D",
+      "artist": "White Denim",
+      "date": "2011-05-24",
+      "detailUrl": "https://musicbrainz.org/release/dc16ccbf-ab90-4b3e-86a0-4e1b1b2404bb",
+      "coverSourceUrl": "https://coverartarchive.org/release/dc16ccbf-ab90-4b3e-86a0-4e1b1b2404bb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/d-4.jpg"
+    },
+    {
+      "letter": "D",
+      "releaseId": "59c23764-199d-4f05-8b3a-18dca4ac0c77",
+      "releaseGroupId": "8c291929-e533-4c35-9010-efc60151908e",
+      "title": "D",
+      "artist": "Hex Rx",
+      "date": "2009-03-13",
+      "detailUrl": "https://musicbrainz.org/release/59c23764-199d-4f05-8b3a-18dca4ac0c77",
+      "coverSourceUrl": "https://coverartarchive.org/release/59c23764-199d-4f05-8b3a-18dca4ac0c77/front-500",
+      "localCoverUrl": "/covers/visual-candidates/d-5.jpg"
+    }
+  ],
+  "E": [
+    {
+      "letter": "E",
+      "releaseId": "43dcd88b-268e-4e5c-b045-9bc02547d545",
+      "releaseGroupId": "2b7607ee-55e8-431d-a49a-bc4213e1e56d",
+      "title": "E",
+      "artist": "BIGBANG",
+      "date": "2015-08-05",
+      "detailUrl": "https://musicbrainz.org/release/43dcd88b-268e-4e5c-b045-9bc02547d545",
+      "coverSourceUrl": "https://coverartarchive.org/release/43dcd88b-268e-4e5c-b045-9bc02547d545/front-500",
+      "localCoverUrl": "/covers/visual-candidates/e-1.jpg"
+    },
+    {
+      "letter": "E",
+      "releaseId": "4311b90f-99c6-44b3-8bc1-a648f43bf189",
+      "releaseGroupId": "a63dd2f0-9e60-46c7-ab52-5aea87625339",
+      "title": "E",
+      "artist": "Kenneths",
+      "date": "2015-06-15",
+      "detailUrl": "https://musicbrainz.org/release/4311b90f-99c6-44b3-8bc1-a648f43bf189",
+      "coverSourceUrl": "https://coverartarchive.org/release/4311b90f-99c6-44b3-8bc1-a648f43bf189/front-500",
+      "localCoverUrl": "/covers/visual-candidates/e-2.jpg"
+    },
+    {
+      "letter": "E",
+      "releaseId": "5d151005-2177-404a-976b-2a7491ebf4dd",
+      "releaseGroupId": "aa16b1c0-f63a-4816-b444-fcf7e5e63099",
+      "title": "E",
+      "artist": "E",
+      "date": "2016-11-11",
+      "detailUrl": "https://musicbrainz.org/release/5d151005-2177-404a-976b-2a7491ebf4dd",
+      "coverSourceUrl": "https://coverartarchive.org/release/5d151005-2177-404a-976b-2a7491ebf4dd/front-500",
+      "localCoverUrl": "/covers/visual-candidates/e-3.jpg"
+    },
+    {
+      "letter": "E",
+      "releaseId": "fa2f6c03-8e68-4597-8269-af101302eae4",
+      "releaseGroupId": "91098310-2c5f-41d2-a304-be94d13eb6e3",
+      "title": "E",
+      "artist": "Diamond Black Hearted Boy",
+      "date": "2011-08-06",
+      "detailUrl": "https://musicbrainz.org/release/fa2f6c03-8e68-4597-8269-af101302eae4",
+      "coverSourceUrl": "https://coverartarchive.org/release/fa2f6c03-8e68-4597-8269-af101302eae4/front-500",
+      "localCoverUrl": "/covers/visual-candidates/e-4.jpg"
+    },
+    {
+      "letter": "E",
+      "releaseId": "9c5ef1e5-1a47-405f-92cc-157241234186",
+      "releaseGroupId": "b1365a2b-b32d-427a-8b06-3cc3862025b0",
+      "title": "E",
+      "artist": "Michael Aristotle",
+      "date": "2018-12-14",
+      "detailUrl": "https://musicbrainz.org/release/9c5ef1e5-1a47-405f-92cc-157241234186",
+      "coverSourceUrl": "https://coverartarchive.org/release/9c5ef1e5-1a47-405f-92cc-157241234186/front-500",
+      "localCoverUrl": "/covers/visual-candidates/e-5.jpg"
+    }
+  ],
+  "F": [
+    {
+      "letter": "F",
+      "releaseId": "da17bd65-5dca-47b8-8b46-126ea501bff4",
+      "releaseGroupId": "22c3a810-8387-3656-bee0-1ebaeb089f3e",
+      "title": "F",
+      "artist": "Pedro Abrunhosa & Os Bandemónio",
+      "date": "1995",
+      "detailUrl": "https://musicbrainz.org/release/da17bd65-5dca-47b8-8b46-126ea501bff4",
+      "coverSourceUrl": "https://coverartarchive.org/release/da17bd65-5dca-47b8-8b46-126ea501bff4/front-500",
+      "localCoverUrl": "/covers/visual-candidates/f-1.jpg"
+    },
+    {
+      "letter": "F",
+      "releaseId": "84894286-9733-4029-a55b-b6f249e60c97",
+      "releaseGroupId": "b9eb0e4d-4c54-489d-8dc8-3ad039cd7282",
+      "title": "f",
+      "artist": "後藤沙緒里",
+      "date": "2005-08-24",
+      "detailUrl": "https://musicbrainz.org/release/84894286-9733-4029-a55b-b6f249e60c97",
+      "coverSourceUrl": "https://coverartarchive.org/release/84894286-9733-4029-a55b-b6f249e60c97/front-500",
+      "localCoverUrl": "/covers/visual-candidates/f-2.jpg"
+    },
+    {
+      "letter": "F",
+      "releaseId": "21c1fb5a-2527-40a5-b9d8-45a917c8bb08",
+      "releaseGroupId": "5c14a126-e6db-4383-b4af-3f93ba17e8cd",
+      "title": "F",
+      "artist": "PBK, Roe",
+      "date": "2009",
+      "detailUrl": "https://musicbrainz.org/release/21c1fb5a-2527-40a5-b9d8-45a917c8bb08",
+      "coverSourceUrl": "https://coverartarchive.org/release/21c1fb5a-2527-40a5-b9d8-45a917c8bb08/front-500",
+      "localCoverUrl": "/covers/visual-candidates/f-3.jpg"
+    },
+    {
+      "letter": "F",
+      "releaseId": "2096f753-477c-48c2-957b-8e870906634b",
+      "releaseGroupId": "45d261cd-2507-4dab-ad91-75049c9f4980",
+      "title": "f",
+      "artist": "サラ・オレイン",
+      "date": "2015-11-25",
+      "detailUrl": "https://musicbrainz.org/release/2096f753-477c-48c2-957b-8e870906634b",
+      "coverSourceUrl": "https://coverartarchive.org/release/2096f753-477c-48c2-957b-8e870906634b/front-500",
+      "localCoverUrl": "/covers/visual-candidates/f-4.jpg"
+    },
+    {
+      "letter": "F",
+      "releaseId": "d8895107-14e4-4128-946b-8e6463f312cb",
+      "releaseGroupId": "ef99b391-f21e-4c83-8d1f-3fbeaefed43c",
+      "title": "F",
+      "artist": "LifeMod",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/d8895107-14e4-4128-946b-8e6463f312cb",
+      "coverSourceUrl": "https://coverartarchive.org/release/d8895107-14e4-4128-946b-8e6463f312cb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/f-5.jpg"
+    }
+  ],
+  "G": [
+    {
+      "letter": "G",
+      "releaseId": "fb1ac900-8a0f-49c9-9601-caef837d86e8",
+      "releaseGroupId": "ea920f39-08b6-308f-b394-ce239d527664",
+      "title": "G",
+      "artist": "Malibu Stacy",
+      "date": "2006",
+      "detailUrl": "https://musicbrainz.org/release/fb1ac900-8a0f-49c9-9601-caef837d86e8",
+      "coverSourceUrl": "https://coverartarchive.org/release/fb1ac900-8a0f-49c9-9601-caef837d86e8/front-500",
+      "localCoverUrl": "/covers/visual-candidates/g-1.jpg"
+    },
+    {
+      "letter": "G",
+      "releaseId": "b429c616-2004-43d3-8c04-692811d72df9",
+      "releaseGroupId": "83e69f51-97cd-396c-9761-55c57f9964a8",
+      "title": "G",
+      "artist": "RinneRadio",
+      "date": "1998",
+      "detailUrl": "https://musicbrainz.org/release/b429c616-2004-43d3-8c04-692811d72df9",
+      "coverSourceUrl": "https://coverartarchive.org/release/b429c616-2004-43d3-8c04-692811d72df9/front-500",
+      "localCoverUrl": "/covers/visual-candidates/g-2.jpg"
+    },
+    {
+      "letter": "G",
+      "releaseId": "8734ec3c-f9c6-4444-9560-c678e701d14b",
+      "releaseGroupId": "6809f91a-2547-4a7e-812f-abd948c18a76",
+      "title": "G",
+      "artist": "Forehead",
+      "date": "1991",
+      "detailUrl": "https://musicbrainz.org/release/8734ec3c-f9c6-4444-9560-c678e701d14b",
+      "coverSourceUrl": "https://coverartarchive.org/release/8734ec3c-f9c6-4444-9560-c678e701d14b/front-500",
+      "localCoverUrl": "/covers/visual-candidates/g-3.jpg"
+    },
+    {
+      "letter": "G",
+      "releaseId": "c0573038-4359-40ef-9de1-dec9fbfb3160",
+      "releaseGroupId": "fd186833-15a0-458a-944e-adfe9e16e90a",
+      "title": "G",
+      "artist": "minus(−)",
+      "date": "2015-12-09",
+      "detailUrl": "https://musicbrainz.org/release/c0573038-4359-40ef-9de1-dec9fbfb3160",
+      "coverSourceUrl": "https://coverartarchive.org/release/c0573038-4359-40ef-9de1-dec9fbfb3160/front-500",
+      "localCoverUrl": "/covers/visual-candidates/g-4.jpg"
+    },
+    {
+      "letter": "G",
+      "releaseId": "76d2effd-f1b0-402a-a314-009e816e4bc1",
+      "releaseGroupId": "04729892-b930-4db9-8ef3-e2622601f286",
+      "title": "G",
+      "artist": "Gerald Albright",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/76d2effd-f1b0-402a-a314-009e816e4bc1",
+      "coverSourceUrl": "https://coverartarchive.org/release/76d2effd-f1b0-402a-a314-009e816e4bc1/front-500",
+      "localCoverUrl": "/covers/visual-candidates/g-5.jpg"
+    }
+  ],
+  "H": [
+    {
+      "letter": "H",
+      "releaseId": "213a7120-7279-4d9f-8b69-b8dd70765af2",
+      "releaseGroupId": "fc4c5dc8-2049-495d-bed5-712a828e3bd2",
+      "title": "h",
+      "artist": "이해리",
+      "date": "2017-04-20",
+      "detailUrl": "https://musicbrainz.org/release/213a7120-7279-4d9f-8b69-b8dd70765af2",
+      "coverSourceUrl": "https://coverartarchive.org/release/213a7120-7279-4d9f-8b69-b8dd70765af2/front-500",
+      "localCoverUrl": "/covers/visual-candidates/h-1.jpg"
+    },
+    {
+      "letter": "H",
+      "releaseId": "d273d28e-6a76-48a7-bb70-99e60bc0ec88",
+      "releaseGroupId": "a2642637-750e-44c4-97f1-f3dbcbff58fd",
+      "title": "H",
+      "artist": "Huski",
+      "date": "2011",
+      "detailUrl": "https://musicbrainz.org/release/d273d28e-6a76-48a7-bb70-99e60bc0ec88",
+      "coverSourceUrl": "https://coverartarchive.org/release/d273d28e-6a76-48a7-bb70-99e60bc0ec88/front-500",
+      "localCoverUrl": "/covers/visual-candidates/h-2.jpg"
+    },
+    {
+      "letter": "H",
+      "releaseId": "c6d33fe6-6dd3-45c4-8c1c-aa4ff2d6e127",
+      "releaseGroupId": "f462e328-5e7f-4cfa-b783-3b0eb2de42ff",
+      "title": "h",
+      "artist": "Taku Sugimoto, Cristián Alvear",
+      "date": "2018-02",
+      "detailUrl": "https://musicbrainz.org/release/c6d33fe6-6dd3-45c4-8c1c-aa4ff2d6e127",
+      "coverSourceUrl": "https://coverartarchive.org/release/c6d33fe6-6dd3-45c4-8c1c-aa4ff2d6e127/front-500",
+      "localCoverUrl": "/covers/visual-candidates/h-3.jpg"
+    },
+    {
+      "letter": "H",
+      "releaseId": "758fe7df-432d-4f8f-b1fc-bc8d5db617c8",
+      "releaseGroupId": "9b3186ed-365f-4333-b46c-378633dc59e2",
+      "title": "H",
+      "artist": "Husalah",
+      "date": "2018-04-06",
+      "detailUrl": "https://musicbrainz.org/release/758fe7df-432d-4f8f-b1fc-bc8d5db617c8",
+      "coverSourceUrl": "https://coverartarchive.org/release/758fe7df-432d-4f8f-b1fc-bc8d5db617c8/front-500",
+      "localCoverUrl": "/covers/visual-candidates/h-4.jpg"
+    },
+    {
+      "letter": "H",
+      "releaseId": "43ad2b0f-ca68-4467-b41e-6354837d5bcc",
+      "releaseGroupId": "24d1f1f4-b66f-4d41-9f28-94b67162ff13",
+      "title": "H",
+      "artist": "Holy '57",
+      "date": "2015-10-26",
+      "detailUrl": "https://musicbrainz.org/release/43ad2b0f-ca68-4467-b41e-6354837d5bcc",
+      "coverSourceUrl": "https://coverartarchive.org/release/43ad2b0f-ca68-4467-b41e-6354837d5bcc/front-500",
+      "localCoverUrl": "/covers/visual-candidates/h-5.jpg"
+    }
+  ],
+  "I": [],
+  "J": [
+    {
+      "letter": "J",
+      "releaseId": "db36c45b-2b1f-4217-af6c-11a088d0f3da",
+      "releaseGroupId": "0a2b31aa-980b-4c65-8805-b4359e3e2380",
+      "title": "J",
+      "artist": "LifeMod",
+      "date": "2016-02-25",
+      "detailUrl": "https://musicbrainz.org/release/db36c45b-2b1f-4217-af6c-11a088d0f3da",
+      "coverSourceUrl": "https://coverartarchive.org/release/db36c45b-2b1f-4217-af6c-11a088d0f3da/front-500",
+      "localCoverUrl": "/covers/visual-candidates/j-1.jpg"
+    },
+    {
+      "letter": "J",
+      "releaseId": "2328d40f-81df-4d78-a741-007e782c29d9",
+      "releaseGroupId": "25fb7702-d5ce-30e9-b318-5630b56cd91f",
+      "title": "J",
+      "artist": "奥井雅美",
+      "date": "1997-03-05",
+      "detailUrl": "https://musicbrainz.org/release/2328d40f-81df-4d78-a741-007e782c29d9",
+      "coverSourceUrl": "https://coverartarchive.org/release/2328d40f-81df-4d78-a741-007e782c29d9/front-500",
+      "localCoverUrl": "/covers/visual-candidates/j-2.jpg"
+    },
+    {
+      "letter": "J",
+      "releaseId": "2b547c1b-e2f5-4148-8139-6932bb96ab26",
+      "releaseGroupId": "d21fefc5-0145-48f7-838d-ab2fcb6edc31",
+      "title": "J",
+      "artist": "Hot Dad",
+      "date": "2019-06-23",
+      "detailUrl": "https://musicbrainz.org/release/2b547c1b-e2f5-4148-8139-6932bb96ab26",
+      "coverSourceUrl": "https://coverartarchive.org/release/2b547c1b-e2f5-4148-8139-6932bb96ab26/front-500",
+      "localCoverUrl": "/covers/visual-candidates/j-3.jpg"
+    },
+    {
+      "letter": "J",
+      "releaseId": "945c20bb-5caa-4c1d-9405-c0006b561ec2",
+      "releaseGroupId": "2c209fbb-61a4-4282-a77f-d0d73625b7be",
+      "title": "J",
+      "artist": "Lazza",
+      "date": "2020-07-16",
+      "detailUrl": "https://musicbrainz.org/release/945c20bb-5caa-4c1d-9405-c0006b561ec2",
+      "coverSourceUrl": "https://coverartarchive.org/release/945c20bb-5caa-4c1d-9405-c0006b561ec2/front-500",
+      "localCoverUrl": "/covers/visual-candidates/j-4.jpg"
+    },
+    {
+      "letter": "J",
+      "releaseId": "5485679a-b851-497d-8b59-bdf5401d23ce",
+      "releaseGroupId": "81dacb88-d242-497e-b85f-7cba75f223b6",
+      "title": "J",
+      "artist": "Tensal",
+      "date": "2021-07-17",
+      "detailUrl": "https://musicbrainz.org/release/5485679a-b851-497d-8b59-bdf5401d23ce",
+      "coverSourceUrl": "https://coverartarchive.org/release/5485679a-b851-497d-8b59-bdf5401d23ce/front-500",
+      "localCoverUrl": "/covers/visual-candidates/j-5.jpg"
+    }
+  ],
+  "K": [
+    {
+      "letter": "K",
+      "releaseId": "43a0da18-4435-40cb-98e0-4034ba7fc831",
+      "releaseGroupId": "c9c53923-2315-3e65-9f58-7eda969c0795",
+      "title": "K",
+      "artist": "Korpi Ensemble",
+      "date": "2002",
+      "detailUrl": "https://musicbrainz.org/release/43a0da18-4435-40cb-98e0-4034ba7fc831",
+      "coverSourceUrl": "https://coverartarchive.org/release/43a0da18-4435-40cb-98e0-4034ba7fc831/front-500",
+      "localCoverUrl": "/covers/visual-candidates/k-1.jpg"
+    },
+    {
+      "letter": "K",
+      "releaseId": "14df2b01-0619-4676-adef-1c0f320d4029",
+      "releaseGroupId": "e35b660f-1d90-487f-b7e4-304d41959139",
+      "title": "K",
+      "artist": "Directors Cut",
+      "date": "2013-05-17",
+      "detailUrl": "https://musicbrainz.org/release/14df2b01-0619-4676-adef-1c0f320d4029",
+      "coverSourceUrl": "https://coverartarchive.org/release/14df2b01-0619-4676-adef-1c0f320d4029/front-500",
+      "localCoverUrl": "/covers/visual-candidates/k-2.jpg"
+    },
+    {
+      "letter": "K",
+      "releaseId": "b4a7d2ed-fecb-48b2-96db-2d4f5161212a",
+      "releaseGroupId": "ef1bc6da-6e26-385a-b03d-d8e7f2325804",
+      "title": "K",
+      "artist": "Kula Shaker",
+      "date": "1996-10-22",
+      "detailUrl": "https://musicbrainz.org/release/b4a7d2ed-fecb-48b2-96db-2d4f5161212a",
+      "coverSourceUrl": "https://coverartarchive.org/release/b4a7d2ed-fecb-48b2-96db-2d4f5161212a/front-500",
+      "localCoverUrl": "/covers/visual-candidates/k-3.jpg"
+    },
+    {
+      "letter": "K",
+      "releaseId": "ee7d69ab-0d3d-4abd-84fe-98bf69359689",
+      "releaseGroupId": "cfeb5eef-200b-4411-b9ed-6843e3a09213",
+      "title": "K",
+      "artist": "Kenneths",
+      "date": "2015-02-23",
+      "detailUrl": "https://musicbrainz.org/release/ee7d69ab-0d3d-4abd-84fe-98bf69359689",
+      "coverSourceUrl": "https://coverartarchive.org/release/ee7d69ab-0d3d-4abd-84fe-98bf69359689/front-500",
+      "localCoverUrl": "/covers/visual-candidates/k-4.jpg"
+    },
+    {
+      "letter": "K",
+      "releaseId": "c6e7b2dd-db99-49c5-b32b-f495ab31161c",
+      "releaseGroupId": "7fd5358d-7797-4b9b-82ec-bc355278972b",
+      "title": "K",
+      "artist": "Lil’ Flip",
+      "date": "2017-10-27",
+      "detailUrl": "https://musicbrainz.org/release/c6e7b2dd-db99-49c5-b32b-f495ab31161c",
+      "coverSourceUrl": "https://coverartarchive.org/release/c6e7b2dd-db99-49c5-b32b-f495ab31161c/front-500",
+      "localCoverUrl": "/covers/visual-candidates/k-5.jpg"
+    }
+  ],
+  "L": [
+    {
+      "letter": "L",
+      "releaseId": "a8152da3-0727-4036-902e-2f66d9f9678b",
+      "releaseGroupId": "fcdc2a7f-4585-4bf2-815f-d81f20dc77fa",
+      "title": "L",
+      "artist": "Todd Pierce",
+      "date": "2017-04-10",
+      "detailUrl": "https://musicbrainz.org/release/a8152da3-0727-4036-902e-2f66d9f9678b",
+      "coverSourceUrl": "https://coverartarchive.org/release/a8152da3-0727-4036-902e-2f66d9f9678b/front-500",
+      "localCoverUrl": "/covers/visual-candidates/l-1.jpg"
+    },
+    {
+      "letter": "L",
+      "releaseId": "b32249a6-3e17-4150-aab4-39fdad1d7f4f",
+      "releaseGroupId": "f12d7333-960d-4445-9e06-7d321202b010",
+      "title": "L",
+      "artist": "LifeMod",
+      "date": "2016-11-13",
+      "detailUrl": "https://musicbrainz.org/release/b32249a6-3e17-4150-aab4-39fdad1d7f4f",
+      "coverSourceUrl": "https://coverartarchive.org/release/b32249a6-3e17-4150-aab4-39fdad1d7f4f/front-500",
+      "localCoverUrl": "/covers/visual-candidates/l-2.jpg"
+    },
+    {
+      "letter": "L",
+      "releaseId": "1f754b41-f98b-4d7e-ac2a-b250d47fae62",
+      "releaseGroupId": "121d02f9-7ffa-4a60-b737-afdc1727da0a",
+      "title": "L",
+      "artist": "Madam West",
+      "date": "2017-03-01",
+      "detailUrl": "https://musicbrainz.org/release/1f754b41-f98b-4d7e-ac2a-b250d47fae62",
+      "coverSourceUrl": "https://coverartarchive.org/release/1f754b41-f98b-4d7e-ac2a-b250d47fae62/front-500",
+      "localCoverUrl": "/covers/visual-candidates/l-3.jpg"
+    },
+    {
+      "letter": "L",
+      "releaseId": "5d5ce4e4-2915-45dd-b915-0992c23d4a25",
+      "releaseGroupId": "c33407da-0483-4590-930c-5f5f3a081d8f",
+      "title": "L",
+      "artist": "Laurels",
+      "date": "1996",
+      "detailUrl": "https://musicbrainz.org/release/5d5ce4e4-2915-45dd-b915-0992c23d4a25",
+      "coverSourceUrl": "https://coverartarchive.org/release/5d5ce4e4-2915-45dd-b915-0992c23d4a25/front-500",
+      "localCoverUrl": "/covers/visual-candidates/l-4.jpg"
+    },
+    {
+      "letter": "L",
+      "releaseId": "dfd148ad-b403-49ba-9be7-837788c43845",
+      "releaseGroupId": "838e6c8b-f505-39b1-ae74-fac95c32bd70",
+      "title": "L",
+      "artist": "Godley & Creme",
+      "date": "2001-12-21",
+      "detailUrl": "https://musicbrainz.org/release/dfd148ad-b403-49ba-9be7-837788c43845",
+      "coverSourceUrl": "https://coverartarchive.org/release/dfd148ad-b403-49ba-9be7-837788c43845/front-500",
+      "localCoverUrl": "/covers/visual-candidates/l-5.jpg"
+    }
+  ],
+  "M": [
+    {
+      "letter": "M",
+      "releaseId": "65331393-786e-4be6-8a60-4133024febf3",
+      "releaseGroupId": "ac46a33d-88dd-4c8f-8928-a198a5436cfb",
+      "title": "M",
+      "artist": "Myrkur",
+      "date": "2015-08-21",
+      "detailUrl": "https://musicbrainz.org/release/65331393-786e-4be6-8a60-4133024febf3",
+      "coverSourceUrl": "https://coverartarchive.org/release/65331393-786e-4be6-8a60-4133024febf3/front-500",
+      "localCoverUrl": "/covers/visual-candidates/m-1.jpg"
+    },
+    {
+      "letter": "M",
+      "releaseId": "64aa8c61-c919-4a38-8ac9-a1e0c197de6c",
+      "releaseGroupId": "9715fac0-6147-491a-a8a8-e0b74d8ed2b1",
+      "title": "M",
+      "artist": "Future Old People Are Wizards",
+      "date": "2016-10-14",
+      "detailUrl": "https://musicbrainz.org/release/64aa8c61-c919-4a38-8ac9-a1e0c197de6c",
+      "coverSourceUrl": "https://coverartarchive.org/release/64aa8c61-c919-4a38-8ac9-a1e0c197de6c/front-500",
+      "localCoverUrl": "/covers/visual-candidates/m-2.jpg"
+    },
+    {
+      "letter": "M",
+      "releaseId": "0348f8b1-8417-4510-b39c-b167626b9d70",
+      "releaseGroupId": "deeb3710-4380-4136-8c86-ea857983e937",
+      "title": "M",
+      "artist": "Jensen Interceptor",
+      "date": "2016-05-06",
+      "detailUrl": "https://musicbrainz.org/release/0348f8b1-8417-4510-b39c-b167626b9d70",
+      "coverSourceUrl": "https://coverartarchive.org/release/0348f8b1-8417-4510-b39c-b167626b9d70/front-500",
+      "localCoverUrl": "/covers/visual-candidates/m-3.jpg"
+    },
+    {
+      "letter": "M",
+      "releaseId": "bdaaee9d-2697-46f3-bd8b-030039a1403b",
+      "releaseGroupId": "c008330a-d684-4d00-b719-7b4f38ade6af",
+      "title": "M",
+      "artist": "BIGBANG",
+      "date": "2015-04-30",
+      "detailUrl": "https://musicbrainz.org/release/bdaaee9d-2697-46f3-bd8b-030039a1403b",
+      "coverSourceUrl": "https://coverartarchive.org/release/bdaaee9d-2697-46f3-bd8b-030039a1403b/front-500",
+      "localCoverUrl": "/covers/visual-candidates/m-4.jpg"
+    },
+    {
+      "letter": "M",
+      "releaseId": "4d00213d-c4f3-48ac-aca2-b7b7c8f3a962",
+      "releaseGroupId": "29833a33-f2da-4097-adb4-3384c7c0a555",
+      "title": "M",
+      "artist": "Muhsinah",
+      "date": "2014-09-04",
+      "detailUrl": "https://musicbrainz.org/release/4d00213d-c4f3-48ac-aca2-b7b7c8f3a962",
+      "coverSourceUrl": "https://coverartarchive.org/release/4d00213d-c4f3-48ac-aca2-b7b7c8f3a962/front-500",
+      "localCoverUrl": "/covers/visual-candidates/m-5.jpg"
+    }
+  ],
+  "N": [
+    {
+      "letter": "N",
+      "releaseId": "26985411-8dcc-4f64-92ab-bb8fd6e0d20e",
+      "releaseGroupId": "a2b79b2d-0da1-3969-88af-63923a6ac194",
+      "title": "N",
+      "artist": "ZONE",
+      "date": "2005",
+      "detailUrl": "https://musicbrainz.org/release/26985411-8dcc-4f64-92ab-bb8fd6e0d20e",
+      "coverSourceUrl": "https://coverartarchive.org/release/26985411-8dcc-4f64-92ab-bb8fd6e0d20e/front-500",
+      "localCoverUrl": "/covers/visual-candidates/n-1.jpg"
+    },
+    {
+      "letter": "N",
+      "releaseId": "2c9e53c6-6072-4c48-8c44-45c15fab4ae8",
+      "releaseGroupId": "bd416504-1c82-4bc4-9518-4d7e62e7a3bc",
+      "title": "N",
+      "artist": "Nodja",
+      "date": "2017-04-04",
+      "detailUrl": "https://musicbrainz.org/release/2c9e53c6-6072-4c48-8c44-45c15fab4ae8",
+      "coverSourceUrl": "https://coverartarchive.org/release/2c9e53c6-6072-4c48-8c44-45c15fab4ae8/front-500",
+      "localCoverUrl": "/covers/visual-candidates/n-2.jpg"
+    },
+    {
+      "letter": "N",
+      "releaseId": "ba2cfe13-f655-41ca-9232-178753f31c83",
+      "releaseGroupId": "420c2cd3-cfc5-4921-aef8-82c933110e08",
+      "title": "N",
+      "artist": "Nisennenmondai",
+      "date": "2013-06-15",
+      "detailUrl": "https://musicbrainz.org/release/ba2cfe13-f655-41ca-9232-178753f31c83",
+      "coverSourceUrl": "https://coverartarchive.org/release/ba2cfe13-f655-41ca-9232-178753f31c83/front-500",
+      "localCoverUrl": "/covers/visual-candidates/n-3.jpg"
+    },
+    {
+      "letter": "N",
+      "releaseId": "f06088c6-b9fd-4aeb-86ee-1d3f9b213f73",
+      "releaseGroupId": "acbcbd4c-3949-4289-94c6-fdcba460fc16",
+      "title": "N",
+      "artist": "Natasha Luna",
+      "date": "2008-12-28",
+      "detailUrl": "https://musicbrainz.org/release/f06088c6-b9fd-4aeb-86ee-1d3f9b213f73",
+      "coverSourceUrl": "https://coverartarchive.org/release/f06088c6-b9fd-4aeb-86ee-1d3f9b213f73/front-500",
+      "localCoverUrl": "/covers/visual-candidates/n-4.jpg"
+    },
+    {
+      "letter": "N",
+      "releaseId": "df77a038-c93d-4148-8f28-17c2df6e9a80",
+      "releaseGroupId": "6c968231-f671-4507-9809-7de460f157f9",
+      "title": "n",
+      "artist": "davey",
+      "date": "2018-12-27",
+      "detailUrl": "https://musicbrainz.org/release/df77a038-c93d-4148-8f28-17c2df6e9a80",
+      "coverSourceUrl": "https://coverartarchive.org/release/df77a038-c93d-4148-8f28-17c2df6e9a80/front-500",
+      "localCoverUrl": "/covers/visual-candidates/n-5.jpg"
+    }
+  ],
+  "O": [
+    {
+      "letter": "O",
+      "releaseId": "b43c8a60-6cfb-4ef1-82ac-5ac22ac325f5",
+      "releaseGroupId": "16b38029-2ac4-3cbc-9885-c4896fcc5a88",
+      "title": "O",
+      "artist": "Cirque du Soleil",
+      "date": "1998",
+      "detailUrl": "https://musicbrainz.org/release/b43c8a60-6cfb-4ef1-82ac-5ac22ac325f5",
+      "coverSourceUrl": "https://coverartarchive.org/release/b43c8a60-6cfb-4ef1-82ac-5ac22ac325f5/front-500",
+      "localCoverUrl": "/covers/visual-candidates/o-1.jpg"
+    },
+    {
+      "letter": "O",
+      "releaseId": "d9645279-cc37-4aea-9083-bd7f45a7afc8",
+      "releaseGroupId": "a236367a-5a4d-4c29-beba-bc99909e6b7d",
+      "title": "O",
+      "artist": "Chłopcy Kontra Basia",
+      "date": "2015-09-11",
+      "detailUrl": "https://musicbrainz.org/release/d9645279-cc37-4aea-9083-bd7f45a7afc8",
+      "coverSourceUrl": "https://coverartarchive.org/release/d9645279-cc37-4aea-9083-bd7f45a7afc8/front-500",
+      "localCoverUrl": "/covers/visual-candidates/o-2.jpg"
+    },
+    {
+      "letter": "O",
+      "releaseId": "2a22f05a-9a34-4cf9-846b-18e435ec5818",
+      "releaseGroupId": "5379512d-84c0-45ea-9e3f-a99eb6d66dfa",
+      "title": "O",
+      "artist": "De Staat",
+      "date": "2016-01-16",
+      "detailUrl": "https://musicbrainz.org/release/2a22f05a-9a34-4cf9-846b-18e435ec5818",
+      "coverSourceUrl": "https://coverartarchive.org/release/2a22f05a-9a34-4cf9-846b-18e435ec5818/front-500",
+      "localCoverUrl": "/covers/visual-candidates/o-3.jpg"
+    },
+    {
+      "letter": "O",
+      "releaseId": "ce90fc61-238f-432f-89fa-5c4249e59eb1",
+      "releaseGroupId": "4d3b8189-49ef-47bc-a1d8-4f4117f0cff5",
+      "title": "O",
+      "artist": "X4",
+      "date": "2017-02-01",
+      "detailUrl": "https://musicbrainz.org/release/ce90fc61-238f-432f-89fa-5c4249e59eb1",
+      "coverSourceUrl": "https://coverartarchive.org/release/ce90fc61-238f-432f-89fa-5c4249e59eb1/front-500",
+      "localCoverUrl": "/covers/visual-candidates/o-4.jpg"
+    },
+    {
+      "letter": "O",
+      "releaseId": "74982f1f-fa30-4453-9737-06ffd48b32b6",
+      "releaseGroupId": "f9b5527a-98f4-4b9d-b8a0-f2abb4c2d78c",
+      "title": "o",
+      "artist": "The Gentle Art of Cooking People",
+      "date": "2016-01-31",
+      "detailUrl": "https://musicbrainz.org/release/74982f1f-fa30-4453-9737-06ffd48b32b6",
+      "coverSourceUrl": "https://coverartarchive.org/release/74982f1f-fa30-4453-9737-06ffd48b32b6/front-500",
+      "localCoverUrl": "/covers/visual-candidates/o-5.jpg"
+    }
+  ],
+  "P": [
+    {
+      "letter": "P",
+      "releaseId": "5061548d-7268-4f17-843b-c1131d120bf7",
+      "releaseGroupId": "0837ed25-0a58-37da-ad38-fe340b667fb1",
+      "title": "P",
+      "artist": "Petter",
+      "date": "2006",
+      "detailUrl": "https://musicbrainz.org/release/5061548d-7268-4f17-843b-c1131d120bf7",
+      "coverSourceUrl": "https://coverartarchive.org/release/5061548d-7268-4f17-843b-c1131d120bf7/front-500",
+      "localCoverUrl": "/covers/visual-candidates/p-1.jpg"
+    },
+    {
+      "letter": "P",
+      "releaseId": "cd096333-e426-4ba3-a1d7-82745bf2ff87",
+      "releaseGroupId": "e425d09b-7b4a-32f2-b921-de4b2f34fa34",
+      "title": "P",
+      "artist": "P",
+      "date": "1995-11-21",
+      "detailUrl": "https://musicbrainz.org/release/cd096333-e426-4ba3-a1d7-82745bf2ff87",
+      "coverSourceUrl": "https://coverartarchive.org/release/cd096333-e426-4ba3-a1d7-82745bf2ff87/front-500",
+      "localCoverUrl": "/covers/visual-candidates/p-2.jpg"
+    },
+    {
+      "letter": "P",
+      "releaseId": "873d7515-adf0-47f9-87a9-1ecee09b2ed4",
+      "releaseGroupId": "9f4c00f1-6961-42d9-adf8-cd90f5883c0c",
+      "title": "P",
+      "artist": "Kaminsky",
+      "date": "2016-04-18",
+      "detailUrl": "https://musicbrainz.org/release/873d7515-adf0-47f9-87a9-1ecee09b2ed4",
+      "coverSourceUrl": "https://coverartarchive.org/release/873d7515-adf0-47f9-87a9-1ecee09b2ed4/front-500",
+      "localCoverUrl": "/covers/visual-candidates/p-3.jpg"
+    },
+    {
+      "letter": "P",
+      "releaseId": "71e88c3c-8f64-439d-8908-b7f1d1698187",
+      "releaseGroupId": "4ec73719-8fb6-42c6-9aac-9b87737ce81d",
+      "title": "P",
+      "artist": "Deja Voodoo",
+      "date": "2004",
+      "detailUrl": "https://musicbrainz.org/release/71e88c3c-8f64-439d-8908-b7f1d1698187",
+      "coverSourceUrl": "https://coverartarchive.org/release/71e88c3c-8f64-439d-8908-b7f1d1698187/front-500",
+      "localCoverUrl": "/covers/visual-candidates/p-4.jpg"
+    },
+    {
+      "letter": "P",
+      "releaseId": "78e50f6e-8be3-409c-a288-19be86a3e901",
+      "releaseGroupId": "dd136944-ab5b-4d29-94c7-600912171654",
+      "title": "P",
+      "artist": "Prince de Takicardie",
+      "date": "2020-06-05",
+      "detailUrl": "https://musicbrainz.org/release/78e50f6e-8be3-409c-a288-19be86a3e901",
+      "coverSourceUrl": "https://coverartarchive.org/release/78e50f6e-8be3-409c-a288-19be86a3e901/front-500",
+      "localCoverUrl": "/covers/visual-candidates/p-5.jpg"
+    }
+  ],
+  "Q": [
+    {
+      "letter": "Q",
+      "releaseId": "82a5236b-6a20-4750-8a48-810b6ca6ad36",
+      "releaseGroupId": "c623fa9f-0d46-490f-bf2b-7e144cb7e2a3",
+      "title": "Q",
+      "artist": "Cheeze",
+      "date": "2016-06-16",
+      "detailUrl": "https://musicbrainz.org/release/82a5236b-6a20-4750-8a48-810b6ca6ad36",
+      "coverSourceUrl": "https://coverartarchive.org/release/82a5236b-6a20-4750-8a48-810b6ca6ad36/front-500",
+      "localCoverUrl": "/covers/visual-candidates/q-1.jpg"
+    },
+    {
+      "letter": "Q",
+      "releaseId": "19acee5c-e04e-4c27-9d33-2ddd6e4b79a4",
+      "releaseGroupId": "37eade16-8853-44b8-8989-0ca449a181fc",
+      "title": "Q",
+      "artist": "BRYN",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/19acee5c-e04e-4c27-9d33-2ddd6e4b79a4",
+      "coverSourceUrl": "https://coverartarchive.org/release/19acee5c-e04e-4c27-9d33-2ddd6e4b79a4/front-500",
+      "localCoverUrl": "/covers/visual-candidates/q-2.jpg"
+    },
+    {
+      "letter": "Q",
+      "releaseId": "f4bf60f7-83af-4fce-8c51-e57ac3f250d2",
+      "releaseGroupId": "8d8eb576-91e8-4b38-8e3c-5dbdb25d3a94",
+      "title": "Q",
+      "artist": "Q",
+      "date": "2011-09-26",
+      "detailUrl": "https://musicbrainz.org/release/f4bf60f7-83af-4fce-8c51-e57ac3f250d2",
+      "coverSourceUrl": "https://coverartarchive.org/release/f4bf60f7-83af-4fce-8c51-e57ac3f250d2/front-500",
+      "localCoverUrl": "/covers/visual-candidates/q-3.jpg"
+    },
+    {
+      "letter": "Q",
+      "releaseId": "5b3f6a49-4417-4f15-ab41-68af6681f2c5",
+      "releaseGroupId": "c8ac5b61-5f68-430d-b6c8-ead20bbb138e",
+      "title": "Q",
+      "artist": "Hideto Kanai Group",
+      "date": "1971",
+      "detailUrl": "https://musicbrainz.org/release/5b3f6a49-4417-4f15-ab41-68af6681f2c5",
+      "coverSourceUrl": "https://coverartarchive.org/release/5b3f6a49-4417-4f15-ab41-68af6681f2c5/front-500",
+      "localCoverUrl": "/covers/visual-candidates/q-4.jpg"
+    },
+    {
+      "letter": "Q",
+      "releaseId": "bfccee23-a25e-4ebb-b929-fb1de8750411",
+      "releaseGroupId": "d1583e81-080c-4d73-9037-3235ad33508c",
+      "title": "Q",
+      "artist": "Mori Calliope, Gawr Gura",
+      "date": "2022-02-05",
+      "detailUrl": "https://musicbrainz.org/release/bfccee23-a25e-4ebb-b929-fb1de8750411",
+      "coverSourceUrl": "https://coverartarchive.org/release/bfccee23-a25e-4ebb-b929-fb1de8750411/front-500",
+      "localCoverUrl": "/covers/visual-candidates/q-5.jpg"
+    }
+  ],
+  "R": [
+    {
+      "letter": "R",
+      "releaseId": "c262d8d7-2ac6-4b9d-9c61-c3c0447ba95a",
+      "releaseGroupId": "4064de6e-8f89-45c3-be90-8f46f5f52721",
+      "title": "R",
+      "artist": "MintJam, ViViX",
+      "date": "2007-12-31",
+      "detailUrl": "https://musicbrainz.org/release/c262d8d7-2ac6-4b9d-9c61-c3c0447ba95a",
+      "coverSourceUrl": "https://coverartarchive.org/release/c262d8d7-2ac6-4b9d-9c61-c3c0447ba95a/front-500",
+      "localCoverUrl": "/covers/visual-candidates/r-1.jpg"
+    },
+    {
+      "letter": "R",
+      "releaseId": "8b236c63-607b-400b-86a4-c31d32cd77fa",
+      "releaseGroupId": "14dce433-5e56-4d88-9e85-e8f2e7d5ddae",
+      "title": "r",
+      "artist": "Erases Eraser",
+      "date": "2015-08-24",
+      "detailUrl": "https://musicbrainz.org/release/8b236c63-607b-400b-86a4-c31d32cd77fa",
+      "coverSourceUrl": "https://coverartarchive.org/release/8b236c63-607b-400b-86a4-c31d32cd77fa/front-500",
+      "localCoverUrl": "/covers/visual-candidates/r-2.jpg"
+    },
+    {
+      "letter": "R",
+      "releaseId": "08edd0cd-9014-4c34-81f5-0360e9b61bcd",
+      "releaseGroupId": "79484651-8b20-4fdd-a9d3-b0da8ae67590",
+      "title": "R",
+      "artist": "Roselia",
+      "date": "2018-07-25",
+      "detailUrl": "https://musicbrainz.org/release/08edd0cd-9014-4c34-81f5-0360e9b61bcd",
+      "coverSourceUrl": "https://coverartarchive.org/release/08edd0cd-9014-4c34-81f5-0360e9b61bcd/front-500",
+      "localCoverUrl": "/covers/visual-candidates/r-3.jpg"
+    },
+    {
+      "letter": "R",
+      "releaseId": "097d1458-eaa6-441c-b048-4bc0c172e908",
+      "releaseGroupId": "510934f7-1c4f-4898-b85b-ec49369f565a",
+      "title": "R",
+      "artist": "규영",
+      "date": "2018-01-30",
+      "detailUrl": "https://musicbrainz.org/release/097d1458-eaa6-441c-b048-4bc0c172e908",
+      "coverSourceUrl": "https://coverartarchive.org/release/097d1458-eaa6-441c-b048-4bc0c172e908/front-500",
+      "localCoverUrl": "/covers/visual-candidates/r-4.jpg"
+    },
+    {
+      "letter": "R",
+      "releaseId": "63a1270d-c015-4dec-afe1-3229764b8f36",
+      "releaseGroupId": "5be7db16-fa83-4209-83dd-ac826afb5f18",
+      "title": "R",
+      "artist": "Acrophilic Project",
+      "date": "2012-07-03",
+      "detailUrl": "https://musicbrainz.org/release/63a1270d-c015-4dec-afe1-3229764b8f36",
+      "coverSourceUrl": "https://coverartarchive.org/release/63a1270d-c015-4dec-afe1-3229764b8f36/front-500",
+      "localCoverUrl": "/covers/visual-candidates/r-5.jpg"
+    }
+  ],
+  "S": [
+    {
+      "letter": "S",
+      "releaseId": "5cfb17ec-d410-4a2d-88b7-3f651a8aa2a5",
+      "releaseGroupId": "5faa9b19-c052-4f87-8d56-b96bc63fe3b1",
+      "title": "s",
+      "artist": "Erases Eraser",
+      "date": "2016-06-24",
+      "detailUrl": "https://musicbrainz.org/release/5cfb17ec-d410-4a2d-88b7-3f651a8aa2a5",
+      "coverSourceUrl": "https://coverartarchive.org/release/5cfb17ec-d410-4a2d-88b7-3f651a8aa2a5/front-500",
+      "localCoverUrl": "/covers/visual-candidates/s-1.jpg"
+    },
+    {
+      "letter": "S",
+      "releaseId": "e7beca26-29bc-40bc-91e3-a8433be6fa19",
+      "releaseGroupId": "05666e9e-23c2-4b73-8c22-7decac58bd9d",
+      "title": "S",
+      "artist": "Team.ねこかん[猫]",
+      "date": "2007-12-31",
+      "detailUrl": "https://musicbrainz.org/release/e7beca26-29bc-40bc-91e3-a8433be6fa19",
+      "coverSourceUrl": "https://coverartarchive.org/release/e7beca26-29bc-40bc-91e3-a8433be6fa19/front-500",
+      "localCoverUrl": "/covers/visual-candidates/s-2.jpg"
+    },
+    {
+      "letter": "S",
+      "releaseId": "a11bcb0f-42a1-4234-a8e7-99e5d32fe2fc",
+      "releaseGroupId": "0600f1cd-5ee3-48c2-9ea7-6026fb8c6e62",
+      "title": "S",
+      "artist": "Laibach",
+      "date": "2013-10-15",
+      "detailUrl": "https://musicbrainz.org/release/a11bcb0f-42a1-4234-a8e7-99e5d32fe2fc",
+      "coverSourceUrl": "https://coverartarchive.org/release/a11bcb0f-42a1-4234-a8e7-99e5d32fe2fc/front-500",
+      "localCoverUrl": "/covers/visual-candidates/s-3.jpg"
+    },
+    {
+      "letter": "S",
+      "releaseId": "4c3d985c-8047-471c-ba72-73a3a816d150",
+      "releaseGroupId": "08c04ccc-76e8-4c79-8f59-dbc021016445",
+      "title": "S",
+      "artist": "Chaos Chaos",
+      "date": "2012",
+      "detailUrl": "https://musicbrainz.org/release/4c3d985c-8047-471c-ba72-73a3a816d150",
+      "coverSourceUrl": "https://coverartarchive.org/release/4c3d985c-8047-471c-ba72-73a3a816d150/front-500",
+      "localCoverUrl": "/covers/visual-candidates/s-4.jpg"
+    },
+    {
+      "letter": "S",
+      "releaseId": "3f567030-9a71-4bf6-bd5a-719a225eac7e",
+      "releaseGroupId": "7a1baf49-c57c-4e5e-8b96-eb23e2dea428",
+      "title": "S",
+      "artist": "Mesmur",
+      "date": "2017-09-15",
+      "detailUrl": "https://musicbrainz.org/release/3f567030-9a71-4bf6-bd5a-719a225eac7e",
+      "coverSourceUrl": "https://coverartarchive.org/release/3f567030-9a71-4bf6-bd5a-719a225eac7e/front-500",
+      "localCoverUrl": "/covers/visual-candidates/s-5.jpg"
+    }
+  ],
+  "T": [
+    {
+      "letter": "T",
+      "releaseId": "a42644c9-f2ab-4ee3-9687-f86d2c606972",
+      "releaseGroupId": "d6036db4-c750-4913-959f-d74555873d2d",
+      "title": "T",
+      "artist": "Tunguska Electronic Music Society",
+      "date": "2014-03-02",
+      "detailUrl": "https://musicbrainz.org/release/a42644c9-f2ab-4ee3-9687-f86d2c606972",
+      "coverSourceUrl": "https://coverartarchive.org/release/a42644c9-f2ab-4ee3-9687-f86d2c606972/front-500",
+      "localCoverUrl": "/covers/visual-candidates/t-1.jpg"
+    },
+    {
+      "letter": "T",
+      "releaseId": "99dafd60-3c64-47ba-9e48-81207bd0adab",
+      "releaseGroupId": "ea350ff5-a755-4f15-bea7-39c72c233e73",
+      "title": "T",
+      "artist": "Industrie 67",
+      "date": "2016-02-12",
+      "detailUrl": "https://musicbrainz.org/release/99dafd60-3c64-47ba-9e48-81207bd0adab",
+      "coverSourceUrl": "https://coverartarchive.org/release/99dafd60-3c64-47ba-9e48-81207bd0adab/front-500",
+      "localCoverUrl": "/covers/visual-candidates/t-2.jpg"
+    },
+    {
+      "letter": "T",
+      "releaseId": "fea4952f-bf9b-4c5c-9319-16b1202bf318",
+      "releaseGroupId": "196b1e91-8902-4651-beb3-b904a399eadf",
+      "title": "T",
+      "artist": "Teflon Brothers",
+      "date": "2009-07-27",
+      "detailUrl": "https://musicbrainz.org/release/fea4952f-bf9b-4c5c-9319-16b1202bf318",
+      "coverSourceUrl": "https://coverartarchive.org/release/fea4952f-bf9b-4c5c-9319-16b1202bf318/front-500",
+      "localCoverUrl": "/covers/visual-candidates/t-3.jpg"
+    },
+    {
+      "letter": "T",
+      "releaseId": "3d708c78-82c7-4f26-82ae-fb398b597509",
+      "releaseGroupId": "121892a1-3175-4bd6-9e22-37d5ee44cfcd",
+      "title": "T",
+      "artist": "Tásler",
+      "date": "2001",
+      "detailUrl": "https://musicbrainz.org/release/3d708c78-82c7-4f26-82ae-fb398b597509",
+      "coverSourceUrl": "https://coverartarchive.org/release/3d708c78-82c7-4f26-82ae-fb398b597509/front-500",
+      "localCoverUrl": "/covers/visual-candidates/t-4.jpg"
+    },
+    {
+      "letter": "T",
+      "releaseId": "43093ac0-49a9-4d62-88d3-6d983f847e01",
+      "releaseGroupId": "49ab9505-a2b0-4831-a24b-8cf48eeb168b",
+      "title": "T",
+      "artist": "Jakob Juhkam",
+      "date": "2012-08-22",
+      "detailUrl": "https://musicbrainz.org/release/43093ac0-49a9-4d62-88d3-6d983f847e01",
+      "coverSourceUrl": "https://coverartarchive.org/release/43093ac0-49a9-4d62-88d3-6d983f847e01/front-500",
+      "localCoverUrl": "/covers/visual-candidates/t-5.jpg"
+    }
+  ],
+  "U": [
+    {
+      "letter": "U",
+      "releaseId": "74a686cd-b3a1-4e6b-a3b5-548345311929",
+      "releaseGroupId": "60465826-791f-4fae-9eab-ac1e17ee7d2a",
+      "title": "U",
+      "artist": "규영",
+      "date": "2017-03-23",
+      "detailUrl": "https://musicbrainz.org/release/74a686cd-b3a1-4e6b-a3b5-548345311929",
+      "coverSourceUrl": "https://coverartarchive.org/release/74a686cd-b3a1-4e6b-a3b5-548345311929/front-500",
+      "localCoverUrl": "/covers/visual-candidates/u-1.jpg"
+    },
+    {
+      "letter": "U",
+      "releaseId": "46f54151-bdf9-4b08-88c9-8c62b776780e",
+      "releaseGroupId": "6c5630a0-7a21-4e40-ba37-b9f19b4ef8e0",
+      "title": "U",
+      "artist": "Alix Perez",
+      "date": "2014-04-07",
+      "detailUrl": "https://musicbrainz.org/release/46f54151-bdf9-4b08-88c9-8c62b776780e",
+      "coverSourceUrl": "https://coverartarchive.org/release/46f54151-bdf9-4b08-88c9-8c62b776780e/front-500",
+      "localCoverUrl": "/covers/visual-candidates/u-2.jpg"
+    },
+    {
+      "letter": "U",
+      "releaseId": "56680eb3-6b8b-478c-911a-98efe4cda3eb",
+      "releaseGroupId": "6d844eec-77d3-4fef-8f2f-348f047d789c",
+      "title": "U",
+      "artist": "DOUBLE",
+      "date": "2000-07-19",
+      "detailUrl": "https://musicbrainz.org/release/56680eb3-6b8b-478c-911a-98efe4cda3eb",
+      "coverSourceUrl": "https://coverartarchive.org/release/56680eb3-6b8b-478c-911a-98efe4cda3eb/front-500",
+      "localCoverUrl": "/covers/visual-candidates/u-3.jpg"
+    },
+    {
+      "letter": "U",
+      "releaseId": "f21a69e1-7d28-4a8a-bf68-131daf6fedf7",
+      "releaseGroupId": "e85245ed-5532-38a5-a738-2d574b5d84ce",
+      "title": "U",
+      "artist": "Sela",
+      "date": "2005-10",
+      "detailUrl": "https://musicbrainz.org/release/f21a69e1-7d28-4a8a-bf68-131daf6fedf7",
+      "coverSourceUrl": "https://coverartarchive.org/release/f21a69e1-7d28-4a8a-bf68-131daf6fedf7/front-500",
+      "localCoverUrl": "/covers/visual-candidates/u-4.jpg"
+    },
+    {
+      "letter": "U",
+      "releaseId": "ee630e52-5354-4279-8d51-60df17efaa41",
+      "releaseGroupId": "b7636cfe-848d-3c8f-b4ba-b305d01d8344",
+      "title": "U",
+      "artist": "L'Ham de Foc",
+      "date": "1999",
+      "detailUrl": "https://musicbrainz.org/release/ee630e52-5354-4279-8d51-60df17efaa41",
+      "coverSourceUrl": "https://coverartarchive.org/release/ee630e52-5354-4279-8d51-60df17efaa41/front-500",
+      "localCoverUrl": "/covers/visual-candidates/u-5.jpg"
+    }
+  ],
+  "V": [
+    {
+      "letter": "V",
+      "releaseId": "80c43523-38c3-41d7-997c-ad41f46b12d1",
+      "releaseGroupId": "a036d9a4-28c6-30f0-ba81-542b86e45c4c",
+      "title": "V",
+      "artist": "Vanessa Hudgens",
+      "date": "2006-09-26",
+      "detailUrl": "https://musicbrainz.org/release/80c43523-38c3-41d7-997c-ad41f46b12d1",
+      "coverSourceUrl": "https://coverartarchive.org/release/80c43523-38c3-41d7-997c-ad41f46b12d1/front-500",
+      "localCoverUrl": "/covers/visual-candidates/v-1.jpg"
+    },
+    {
+      "letter": "V",
+      "releaseId": "12e2a7fd-5105-4a45-8196-88bc8b01ca8d",
+      "releaseGroupId": "b1ba3c99-6376-4315-abd8-4d9fd18f3649",
+      "title": "V",
+      "artist": "The Flight of Sleipnir",
+      "date": "2014-11-28",
+      "detailUrl": "https://musicbrainz.org/release/12e2a7fd-5105-4a45-8196-88bc8b01ca8d",
+      "coverSourceUrl": "https://coverartarchive.org/release/12e2a7fd-5105-4a45-8196-88bc8b01ca8d/front-500",
+      "localCoverUrl": "/covers/visual-candidates/v-2.jpg"
+    },
+    {
+      "letter": "V",
+      "releaseId": "fa9081ba-f403-4384-9b40-b428423f36f6",
+      "releaseGroupId": "ce3dd43a-c93a-45fe-942c-808fbf092d71",
+      "title": "V",
+      "artist": "NoGoD",
+      "date": "2013-02-06",
+      "detailUrl": "https://musicbrainz.org/release/fa9081ba-f403-4384-9b40-b428423f36f6",
+      "coverSourceUrl": "https://coverartarchive.org/release/fa9081ba-f403-4384-9b40-b428423f36f6/front-500",
+      "localCoverUrl": "/covers/visual-candidates/v-3.jpg"
+    },
+    {
+      "letter": "V",
+      "releaseId": "048912ff-1374-411d-b863-e0c506053dda",
+      "releaseGroupId": "d7c665d7-edd7-40f1-af2e-b6df3c80ea28",
+      "title": "V",
+      "artist": "Wavves",
+      "date": "2015-10-02",
+      "detailUrl": "https://musicbrainz.org/release/048912ff-1374-411d-b863-e0c506053dda",
+      "coverSourceUrl": "https://coverartarchive.org/release/048912ff-1374-411d-b863-e0c506053dda/front-500",
+      "localCoverUrl": "/covers/visual-candidates/v-4.jpg"
+    },
+    {
+      "letter": "V",
+      "releaseId": "dccb6ad4-589c-453f-9306-f44f906b92f3",
+      "releaseGroupId": "7c69459c-6464-4f24-9140-154fb9ffdcc5",
+      "title": "V",
+      "artist": "SunSay",
+      "date": "2014-07-02",
+      "detailUrl": "https://musicbrainz.org/release/dccb6ad4-589c-453f-9306-f44f906b92f3",
+      "coverSourceUrl": "https://coverartarchive.org/release/dccb6ad4-589c-453f-9306-f44f906b92f3/front-500",
+      "localCoverUrl": "/covers/visual-candidates/v-5.jpg"
+    }
+  ],
+  "W": [
+    {
+      "letter": "W",
+      "releaseId": "2f7ecc12-aef3-4e56-85c6-3fada94f4496",
+      "releaseGroupId": "fd5d4a3b-19e3-49ad-b157-3798c867a562",
+      "title": "W",
+      "artist": "Jean-Luc Guionnet, Benjamin Duboc",
+      "date": "2008",
+      "detailUrl": "https://musicbrainz.org/release/2f7ecc12-aef3-4e56-85c6-3fada94f4496",
+      "coverSourceUrl": "https://coverartarchive.org/release/2f7ecc12-aef3-4e56-85c6-3fada94f4496/front-500",
+      "localCoverUrl": "/covers/visual-candidates/w-1.jpg"
+    },
+    {
+      "letter": "W",
+      "releaseId": "1448c2c6-f8d2-4621-84f4-f5120c3541b0",
+      "releaseGroupId": "0d5c98c7-6ea2-4cd8-9813-2bad94017f75",
+      "title": "W",
+      "artist": "Sikboy",
+      "date": "2020-03-03",
+      "detailUrl": "https://musicbrainz.org/release/1448c2c6-f8d2-4621-84f4-f5120c3541b0",
+      "coverSourceUrl": "https://coverartarchive.org/release/1448c2c6-f8d2-4621-84f4-f5120c3541b0/front-500",
+      "localCoverUrl": "/covers/visual-candidates/w-2.jpg"
+    },
+    {
+      "letter": "W",
+      "releaseId": "15d95f04-7281-4d56-a499-597cb9d0db15",
+      "releaseGroupId": "03271c5b-ced2-4356-ac0f-686cc9d9fc52",
+      "title": "W",
+      "artist": "湯木慧",
+      "date": "2022-02-22",
+      "detailUrl": "https://musicbrainz.org/release/15d95f04-7281-4d56-a499-597cb9d0db15",
+      "coverSourceUrl": "https://coverartarchive.org/release/15d95f04-7281-4d56-a499-597cb9d0db15/front-500",
+      "localCoverUrl": "/covers/visual-candidates/w-3.jpg"
+    },
+    {
+      "letter": "W",
+      "releaseId": "08e8ca73-7ab4-40ad-8105-ffce3c6badf1",
+      "releaseGroupId": "d22594a4-2fee-40ba-89f5-ca923d9a4ef4",
+      "title": "W",
+      "artist": "The Aether",
+      "date": "2019-01-28",
+      "detailUrl": "https://musicbrainz.org/release/08e8ca73-7ab4-40ad-8105-ffce3c6badf1",
+      "coverSourceUrl": "https://coverartarchive.org/release/08e8ca73-7ab4-40ad-8105-ffce3c6badf1/front-500",
+      "localCoverUrl": "/covers/visual-candidates/w-4.jpg"
+    },
+    {
+      "letter": "W",
+      "releaseId": "cb74e9a4-863e-467e-810e-bbcd38edac8f",
+      "releaseGroupId": "0243a2aa-3f36-47e4-b8fd-40dc682b2f58",
+      "title": "W",
+      "artist": "Populous",
+      "date": "2020-05-22",
+      "detailUrl": "https://musicbrainz.org/release/cb74e9a4-863e-467e-810e-bbcd38edac8f",
+      "coverSourceUrl": "https://coverartarchive.org/release/cb74e9a4-863e-467e-810e-bbcd38edac8f/front-500",
+      "localCoverUrl": "/covers/visual-candidates/w-5.jpg"
+    }
+  ],
+  "X": [
+    {
+      "letter": "X",
+      "releaseId": "bba766ea-4fc3-4eda-bac1-60f38f502455",
+      "releaseGroupId": "f99eb6d4-5eb2-3ffd-8660-9ce9502f1c41",
+      "title": "X",
+      "artist": "United Jazz + Rock Ensemble",
+      "date": "1999-01-15",
+      "detailUrl": "https://musicbrainz.org/release/bba766ea-4fc3-4eda-bac1-60f38f502455",
+      "coverSourceUrl": "https://coverartarchive.org/release/bba766ea-4fc3-4eda-bac1-60f38f502455/front-500",
+      "localCoverUrl": "/covers/visual-candidates/x-1.jpg"
+    },
+    {
+      "letter": "X",
+      "releaseId": "e8cc89c7-caeb-4703-9994-dbe0a2386cd7",
+      "releaseGroupId": "2c37870d-8f3b-3c5b-b217-d5e5a1588607",
+      "title": "X",
+      "artist": "AWeX",
+      "date": "1996",
+      "detailUrl": "https://musicbrainz.org/release/e8cc89c7-caeb-4703-9994-dbe0a2386cd7",
+      "coverSourceUrl": "https://coverartarchive.org/release/e8cc89c7-caeb-4703-9994-dbe0a2386cd7/front-500",
+      "localCoverUrl": "/covers/visual-candidates/x-2.jpg"
+    },
+    {
+      "letter": "X",
+      "releaseId": "0d7ab292-06b6-4889-b3d5-e7e5f278b077",
+      "releaseGroupId": "a4d2cb53-424b-49f0-91c9-86ef798936c3",
+      "title": "X",
+      "artist": "Lucki Eck$",
+      "date": "2015-05-30",
+      "detailUrl": "https://musicbrainz.org/release/0d7ab292-06b6-4889-b3d5-e7e5f278b077",
+      "coverSourceUrl": "https://coverartarchive.org/release/0d7ab292-06b6-4889-b3d5-e7e5f278b077/front-500",
+      "localCoverUrl": "/covers/visual-candidates/x-3.jpg"
+    },
+    {
+      "letter": "X",
+      "releaseId": "5ae5627d-bff7-42e5-9330-a3fb8e25cd00",
+      "releaseGroupId": "8fd854fa-604f-3106-a9c9-90288687f61e",
+      "title": "X",
+      "artist": "INXS",
+      "date": "1990",
+      "detailUrl": "https://musicbrainz.org/release/5ae5627d-bff7-42e5-9330-a3fb8e25cd00",
+      "coverSourceUrl": "https://coverartarchive.org/release/5ae5627d-bff7-42e5-9330-a3fb8e25cd00/front-500",
+      "localCoverUrl": "/covers/visual-candidates/x-4.jpg"
+    },
+    {
+      "letter": "X",
+      "releaseId": "c6a1da27-7de4-4abe-bc97-ddcc441ce925",
+      "releaseGroupId": "48bd6384-8746-4af3-84c4-e7f58b6bf886",
+      "title": "X",
+      "artist": "Big Russian Boss",
+      "date": "2016-04-06",
+      "detailUrl": "https://musicbrainz.org/release/c6a1da27-7de4-4abe-bc97-ddcc441ce925",
+      "coverSourceUrl": "https://coverartarchive.org/release/c6a1da27-7de4-4abe-bc97-ddcc441ce925/front-500",
+      "localCoverUrl": "/covers/visual-candidates/x-5.jpg"
+    }
+  ],
+  "Y": [
+    {
+      "letter": "Y",
+      "releaseId": "941a13cf-6fcb-4cf0-b0ec-1f39691680ca",
+      "releaseGroupId": "801d8299-80d3-4c40-a321-fa79650b22d3",
+      "title": "Y",
+      "artist": "7dove",
+      "date": "",
+      "detailUrl": "https://musicbrainz.org/release/941a13cf-6fcb-4cf0-b0ec-1f39691680ca",
+      "coverSourceUrl": "https://coverartarchive.org/release/941a13cf-6fcb-4cf0-b0ec-1f39691680ca/front-500",
+      "localCoverUrl": "/covers/visual-candidates/y-1.jpg"
+    },
+    {
+      "letter": "Y",
+      "releaseId": "686dc9d2-03e4-4446-a167-1ffb4714d745",
+      "releaseGroupId": "935a6a93-cf66-4d01-9910-505116ed3c81",
+      "title": "Y",
+      "artist": "Fuzeta",
+      "date": "2015-03-24",
+      "detailUrl": "https://musicbrainz.org/release/686dc9d2-03e4-4446-a167-1ffb4714d745",
+      "coverSourceUrl": "https://coverartarchive.org/release/686dc9d2-03e4-4446-a167-1ffb4714d745/front-500",
+      "localCoverUrl": "/covers/visual-candidates/y-2.jpg"
+    },
+    {
+      "letter": "Y",
+      "releaseId": "da58ba92-433c-42f3-a5da-b759490c7662",
+      "releaseGroupId": "cde1ff75-8f0c-4bb0-8f16-f78110b1bbc6",
+      "title": "Y",
+      "artist": "Yous Mc",
+      "date": "2017-03-02",
+      "detailUrl": "https://musicbrainz.org/release/da58ba92-433c-42f3-a5da-b759490c7662",
+      "coverSourceUrl": "https://coverartarchive.org/release/da58ba92-433c-42f3-a5da-b759490c7662/front-500",
+      "localCoverUrl": "/covers/visual-candidates/y-3.jpg"
+    },
+    {
+      "letter": "Y",
+      "releaseId": "4d3d05a1-59bb-4991-b999-4a2c66a1dae4",
+      "releaseGroupId": "9277641a-d6ac-48ad-9950-b47554be785d",
+      "title": "Y",
+      "artist": "Lydmor",
+      "date": "2015-05-18",
+      "detailUrl": "https://musicbrainz.org/release/4d3d05a1-59bb-4991-b999-4a2c66a1dae4",
+      "coverSourceUrl": "https://coverartarchive.org/release/4d3d05a1-59bb-4991-b999-4a2c66a1dae4/front-500",
+      "localCoverUrl": "/covers/visual-candidates/y-4.jpg"
+    },
+    {
+      "letter": "Y",
+      "releaseId": "5e2368db-2c67-42f6-b979-efee8adb9490",
+      "releaseGroupId": "8b1d54e6-58dc-4342-ba22-0615190dd154",
+      "title": "Y",
+      "artist": "Yeung Human",
+      "date": "2016-06-13",
+      "detailUrl": "https://musicbrainz.org/release/5e2368db-2c67-42f6-b979-efee8adb9490",
+      "coverSourceUrl": "https://coverartarchive.org/release/5e2368db-2c67-42f6-b979-efee8adb9490/front-500",
+      "localCoverUrl": "/covers/visual-candidates/y-5.jpg"
+    }
+  ],
+  "Z": [
+    {
+      "letter": "Z",
+      "releaseId": "e10ee6a4-5e4f-48fe-bf77-831f3a5c6019",
+      "releaseGroupId": "94b92a32-8f6d-3162-a66e-7a7fa5efaf40",
+      "title": "Z",
+      "artist": "ZONE",
+      "date": "2012-12-20",
+      "detailUrl": "https://musicbrainz.org/release/e10ee6a4-5e4f-48fe-bf77-831f3a5c6019",
+      "coverSourceUrl": "https://coverartarchive.org/release/e10ee6a4-5e4f-48fe-bf77-831f3a5c6019/front-500",
+      "localCoverUrl": "/covers/visual-candidates/z-1.jpg"
+    },
+    {
+      "letter": "Z",
+      "releaseId": "57b3596e-dff3-489e-83c2-9efe206d65d3",
+      "releaseGroupId": "91b6f573-3e93-39b3-8643-bdd9e3513c63",
+      "title": "Z",
+      "artist": "Gonzales",
+      "date": "2003",
+      "detailUrl": "https://musicbrainz.org/release/57b3596e-dff3-489e-83c2-9efe206d65d3",
+      "coverSourceUrl": "https://coverartarchive.org/release/57b3596e-dff3-489e-83c2-9efe206d65d3/front-500",
+      "localCoverUrl": "/covers/visual-candidates/z-2.jpg"
+    },
+    {
+      "letter": "Z",
+      "releaseId": "983e7b89-9ed0-434e-8cc3-4e54ce7935ed",
+      "releaseGroupId": "3dfbad4e-ed3e-4c56-8f80-ad74b63ab3b8",
+      "title": "Z",
+      "artist": "Zorn, Zelot",
+      "date": "1995",
+      "detailUrl": "https://musicbrainz.org/release/983e7b89-9ed0-434e-8cc3-4e54ce7935ed",
+      "coverSourceUrl": "https://coverartarchive.org/release/983e7b89-9ed0-434e-8cc3-4e54ce7935ed/front-500",
+      "localCoverUrl": "/covers/visual-candidates/z-3.jpg"
+    },
+    {
+      "letter": "Z",
+      "releaseId": "5530b151-95de-436d-8a81-699c8a819c23",
+      "releaseGroupId": "60c32a8f-2c4d-4f28-9261-cd1650a763c3",
+      "title": "Z",
+      "artist": "Cummi Flu",
+      "date": "2015-01-30",
+      "detailUrl": "https://musicbrainz.org/release/5530b151-95de-436d-8a81-699c8a819c23",
+      "coverSourceUrl": "https://coverartarchive.org/release/5530b151-95de-436d-8a81-699c8a819c23/front-500",
+      "localCoverUrl": "/covers/visual-candidates/z-4.jpg"
+    },
+    {
+      "letter": "Z",
+      "releaseId": "81a64f02-8c24-4cc3-a2e9-e8693cbb279e",
+      "releaseGroupId": "4884de23-1846-4b06-9357-753f82f75903",
+      "title": "Z",
+      "artist": "Vanilin",
+      "date": "2007-12-23",
+      "detailUrl": "https://musicbrainz.org/release/81a64f02-8c24-4cc3-a2e9-e8693cbb279e",
+      "coverSourceUrl": "https://coverartarchive.org/release/81a64f02-8c24-4cc3-a2e9-e8693cbb279e/front-500",
+      "localCoverUrl": "/covers/visual-candidates/z-5.jpg"
+    }
+  ]
+}
