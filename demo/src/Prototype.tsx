@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   DownloadIcon,
   ExternalLinkIcon,
@@ -26,13 +26,13 @@ import "./prototype.css";
 
 function readInitialState() {
   const params = new URLSearchParams(window.location.search);
-  const rawName = params.get("name") || "JON";
+  const rawName = params.get("name") || "MARTIN";
   const parsedSeed = Number.parseInt(params.get("seed") || "0", 10);
   const { normalized } = normalizeName(rawName);
 
   return {
     rawName,
-    submittedName: normalized || "JON",
+    submittedName: normalized || "MARTIN",
     seed: Number.isFinite(parsedSeed) ? Math.max(0, parsedSeed) : 0,
   };
 }
@@ -82,6 +82,7 @@ export default function Prototype() {
   const [liveCandidates, setLiveCandidates] = useState<LiveOpenRelease[]>([]);
   const [catalogLoading, setCatalogLoading] = useState(false);
   const toastTimer = useRef<number | null>(null);
+  const nameAlignmentFrame = useRef<number | null>(null);
 
   const matches = useMemo(
     () => buildMatches(submittedName, seed, liveCandidates),
@@ -90,9 +91,56 @@ export default function Prototype() {
   const layout = layoutForCount(matches.length);
   const inputCount = rawName.replace(/[ '\-]/g, "").length;
 
+  const alignNameInputAboveKeyboard = useCallback(
+    (input: HTMLInputElement) => {
+      if (nameAlignmentFrame.current !== null) {
+        window.cancelAnimationFrame(nameAlignmentFrame.current);
+      }
+
+      const scroll = input
+        .closest(".mobile-page")
+        ?.querySelector<HTMLElement>(".mobile-scroll");
+      const dock = input.closest<HTMLElement>(".command-dock");
+      if (!scroll || !dock) return;
+
+      const startedAt = performance.now();
+      const align = () => {
+        if (document.activeElement !== input) {
+          nameAlignmentFrame.current = null;
+          return;
+        }
+
+        const scrollRect = scroll.getBoundingClientRect();
+        const dockRect = dock.getBoundingClientRect();
+        const desiredDockBottom = scrollRect.bottom - 14;
+        const delta = dockRect.bottom - desiredDockBottom;
+
+        if (Math.abs(delta) > 1) {
+          const maxScrollTop = Math.max(0, scroll.scrollHeight - scroll.clientHeight);
+          scroll.scrollTop = Math.min(
+            maxScrollTop,
+            Math.max(0, scroll.scrollTop + delta),
+          );
+        }
+
+        if (performance.now() - startedAt < 420) {
+          nameAlignmentFrame.current = window.requestAnimationFrame(align);
+        } else {
+          nameAlignmentFrame.current = null;
+        }
+      };
+
+      nameAlignmentFrame.current = window.requestAnimationFrame(align);
+    },
+    [],
+  );
+
   useEffect(() => {
     return () => {
       if (toastTimer.current) window.clearTimeout(toastTimer.current);
+      if (nameAlignmentFrame.current !== null) {
+        window.cancelAnimationFrame(nameAlignmentFrame.current);
+      }
     };
   }, []);
 
@@ -115,6 +163,15 @@ export default function Prototype() {
       });
       window.history.replaceState({}, "", `?${params.toString()}`);
       window.requestAnimationFrame(() => {
+        const activeInput = document.getElementById("cover-name");
+        if (
+          activeInput instanceof HTMLInputElement &&
+          document.activeElement === activeInput
+        ) {
+          alignNameInputAboveKeyboard(activeInput);
+          return;
+        }
+
         document
           .querySelectorAll<HTMLElement>(".device-screen, .mobile-scroll")
           .forEach((element) => {
@@ -124,7 +181,7 @@ export default function Prototype() {
     }, 220);
 
     return () => window.clearTimeout(timer);
-  }, [rawName, submittedName]);
+  }, [alignNameInputAboveKeyboard, rawName, submittedName]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -407,6 +464,9 @@ export default function Prototype() {
                   }}
                   onKeyDown={(event) => {
                     if (event.key === "Enter") submitName();
+                  }}
+                  onFocus={(event) => {
+                    alignNameInputAboveKeyboard(event.currentTarget);
                   }}
                   spellCheck={false}
                   value={rawName}
