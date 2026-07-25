@@ -25,10 +25,21 @@ function rewritePublicPaths(source) {
     rewritten = rewritten
       .replaceAll(`"/${publicPath}`, `"${basePath}/${publicPath}`)
       .replaceAll(`'/${publicPath}`, `'${basePath}/${publicPath}`)
+      .replaceAll(`\`/${publicPath}`, `\`${basePath}/${publicPath}`)
       .replaceAll(`url(/${publicPath}`, `url(${basePath}/${publicPath}`);
   }
 
   return rewritten;
+}
+
+function findUnscopedPublicPaths(source) {
+  return publicPaths.filter(
+    (publicPath) =>
+      source.includes(`"/${publicPath}`) ||
+      source.includes(`'/${publicPath}`) ||
+      source.includes(`\`/${publicPath}`) ||
+      source.includes(`url(/${publicPath}`),
+  );
 }
 
 async function rewriteDirectory(directory) {
@@ -46,6 +57,13 @@ async function rewriteDirectory(directory) {
       const source = await readFile(entryPath, "utf8");
       const rewritten = rewritePublicPaths(source);
       if (rewritten !== source) await writeFile(entryPath, rewritten);
+
+      const remainingPaths = findUnscopedPublicPaths(rewritten);
+      if (remainingPaths.length > 0) {
+        throw new Error(
+          `Unscoped public paths remain in ${entryPath}: ${remainingPaths.join(", ")}`,
+        );
+      }
     }),
   );
 }
@@ -55,4 +73,3 @@ await writeFile(path.join(outputDir, ".nojekyll"), "");
 process.stdout.write(
   `Prepared GitHub Pages build at ${outputDir} for ${basePath}/\n`,
 );
-
